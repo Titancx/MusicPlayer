@@ -2,13 +2,6 @@
 
 > 其实就是一个练手的东西
 
-### Elevator Music Player
-
-> 因为我室友嘲讽我说我听的曲子都是电梯里才会放的歌曲，所以起了个这个名字，还请不要在意。
-
-
-![picture](https://github.com/Incisa/MusicPlayer/blob/master/static/all1.png?raw=true)
-
 
 ### 注明
 
